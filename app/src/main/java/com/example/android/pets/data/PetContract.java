@@ -20,7 +20,8 @@ import android.provider.BaseColumns;
 /**
  * API Contract for the Pets app.
  */
-public final class PetContract {
+public final class
+PetContract {
 
     // To prevent someone from accidentally instantiating the contract class,
     // give it an empty constructor.
